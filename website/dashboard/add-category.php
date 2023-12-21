@@ -107,30 +107,15 @@ include('includes/sidebar.php');
 </main>
 
 </div>
+<?php 
 
-<script src="../assets/libs/flatpickr/dist/flatpickr.min.js"></script>
-<!-- Libs JS -->
-<script src="../assets/libs/jquery/dist/jquery.min.js"></script>
-<script src="../assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-<script src="../assets/libs/simplebar/dist/simplebar.min.js"></script>
-
-<!-- Theme JS -->
-<script src="../assets/js/theme.min.js"></script>
-<script src="../assets/libs/quill/dist/quill.min.js"></script>
-<script src="../assets/js/vendors/editor.js"></script>
-<script src="../assets/libs/dropzone/dist/min/dropzone.min.js"></script>
+include('includes/footer.php');
+?>
 <!-- jquery Ajax -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-
-</body>
 
 <script src="ajax/cat.js"></script>
 
 
 
 
-
-<!-- Mirrored from freshcart.codescandy.com/dashboard/add-category.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 31 Mar 2023 10:11:28 GMT -->
-
-</html>
